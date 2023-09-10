@@ -39,9 +39,9 @@ Ferdowsi University of Mashhad Data Transmission Hamming Method Error Correction
 
 
 <!-- Issues -->
-[issues-shield]: https://img.shields.io/github/issues/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/javidchaji/FUM-Data-Transmission-Hamming-Method-Error-Correction.svg?style=for-the-badge
 
-[issues-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/issues
+[issues-url]: https://github.com/javidchaji/FUM-Data-Transmission-Hamming-Method-Error-Correction/issues
 
 
 <!-- License -->
